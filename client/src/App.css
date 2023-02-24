@@ -87,6 +87,19 @@ h2 {
 .loginMarg {
   padding: 10px;
 }
+
+.loginStyle {
+  margin: 10px;
+}
+.loginStyle input {
+  margin-left: 30px;
+  margin-top: 40px;
+}
+
+.textError {
+  color: white;
+  z-index: 5;
+}
 /* end of login */
 
 /* footer */
@@ -130,5 +143,8 @@ h2 {
     background-repeat: no-repeat;
     background-position: center calc(100%);
     max-width: 100%;
+  }
+  .loginStyle input{
+    margin-top: 19px;
   }
 }

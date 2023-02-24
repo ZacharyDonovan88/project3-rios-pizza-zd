@@ -1,6 +1,6 @@
 nav {
     height: 90px;
-    background-color: rgba(0, 0, 0, 0.815);
+    background-color: rgba(0, 0, 0, 0.912);
     width: 90%;
     display: flex;
     align-items: center;
@@ -27,12 +27,20 @@ li {
 li a {
     display: flex;
     padding: 8px;
-    background-color: #dddddd;
+    background-color: #ff00001d;
+    color: rgb(255, 255, 255);
     text-decoration: none;
+    border-radius: 10px;
   }
   
 li a:hover {
-  background-color: #999999;
+  color: #fff700;
+}
+
+.logSign {
+  justify-content: right;
+  align-items: right;
+  position: sticky;
 }
 
 @media screen and (max-width: 600px) {

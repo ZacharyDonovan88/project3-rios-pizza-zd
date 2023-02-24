@@ -27,10 +27,10 @@ function Home() {
             <li>
             <Link to="/Deals">Deals</Link>
             </li>
-            <li>
+            <li className="logSign">
             <Link to="/Login">Log In</Link>
             </li>
-            <li>
+            <li className="logSign">
             <Link to="/Sign Up">Sign Up</Link>
             </li>   
         </ul>

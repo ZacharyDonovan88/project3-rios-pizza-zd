@@ -46,7 +46,7 @@ const Login = (props) => {
             <main className="flex-row justify-center mb-4">
             <div className="col-12 col-lg-10">
                 <div className="card">
-                <h4 className="card-header bg-dark text-light p-2">Login</h4>
+                <h4 className="card-header bg-dark text-light p-2"></h4>
                 <div className="card-body">
                     {data ? (
                     <p>
@@ -54,7 +54,7 @@ const Login = (props) => {
                         <Link to="/">back to the homepage.</Link>
                     </p>
                     ) : (
-                    <form onSubmit={handleFormSubmit}>
+                    <form onSubmit={handleFormSubmit} className="loginStyle">
                         <input
                         className="form-input"
                         placeholder="Your email"
@@ -82,7 +82,7 @@ const Login = (props) => {
                     )}
 
                     {error && (
-                    <div className="my-3 p-3 bg-danger text-white">
+                    <div className="my-3 p-3 bg-danger textError">
                         {error.message}
                     </div>
                     )}

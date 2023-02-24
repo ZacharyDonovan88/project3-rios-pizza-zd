@@ -55,8 +55,8 @@ function showSlides(n) {
   return (
     <>
     <div className="">  
-      <div className="header vinesR">
-        <div className="headerBg vinesL">
+      <div className="header">
+        <div className="headerBg">
           <h1>Rios Pizza</h1>
         </div>
       </div>
