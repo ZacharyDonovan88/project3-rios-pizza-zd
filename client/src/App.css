@@ -71,6 +71,15 @@ h2 {
 
 /* end of pages */
 
+/* slides */
+.dot {
+  background-color: rgba(0, 0, 0, 0.702);
+}
+.dot.active {
+  background-color: rgb(255, 255, 255);
+}
+/* end of slides */
+
 /* deal page */
 .dealBox {
   padding: 10px;

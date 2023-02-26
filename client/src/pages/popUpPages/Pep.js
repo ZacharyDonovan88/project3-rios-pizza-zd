@@ -7,6 +7,11 @@ const Pizza = () => {
     return (
       <> 
         <div className="popArea">
+            <div className="popTxtTitle">
+                <div>
+                    <h3>PEPPERONI</h3>
+                </div>
+            </div>
             <div>
                 <h3>Ingredients:</h3>
             </div>

@@ -17,11 +17,18 @@
     font-size: 14px;
     border-radius: 2px;
     margin-bottom: 40px;
+    margin-top: 50px;
 }
 
 .popArea p {
     color: black;
 }
+
+.popTxtTitle {
+    font-size: 26px;
+    text-align: center;
+}
+
 
 @media screen and (max-width: 600px) {
     .popArea {
