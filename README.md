@@ -19,6 +19,8 @@ For future plans, I am creating a login/sign up page to access exclusive members
 I had to make a new repo as I made a huge mistake from my last one. Commits might not make sense on this current repo but here is my old repo link.
 https://github.com/ZacharyDonovan88/project3-rios-pizza 
 
+## Heroku URL
+https://project3-rios-pizza.herokuapp.com/
 
 ## Wireframe links 
 https://docs.google.com/presentation/d/12hL4u6wWsB8bBLj6tpm0h5wOwpZCdV0nJSfFsffUXt0/edit#slide=id.g1f249d19d58_0_488
@@ -26,11 +28,6 @@ https://docs.google.com/presentation/d/1koXEQaA8dbvd4YzNyrvzAvw5dBFm_uG7fAars-gn
 
 ![Capture 11](https://user-images.githubusercontent.com/109838413/221475847-2ff006d5-e266-4406-a7ca-b6e5b11a1034.PNG)
 
-
-
-
-## Heroku URL
-https://project3-rios-pizza.herokuapp.com/
 
 ## Screenshots
 ![Capture 1](https://user-images.githubusercontent.com/109838413/221475863-4e961d5d-c8f6-4056-b774-acb0e69c9434.PNG)
