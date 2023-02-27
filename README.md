@@ -16,6 +16,10 @@ To run locally, cd into client "\project3-rios-pizza-zd\client", then npm start.
 
 For future plans, I am creating a login/sign up page to access exclusive membership deals. 
 
+I had to make a new repo as I made a huge mistake from my last one. Commits might not make sense on this current repo but here is my old repo link.
+https://github.com/ZacharyDonovan88/project3-rios-pizza 
+
+
 ## Wireframe links 
 https://docs.google.com/presentation/d/12hL4u6wWsB8bBLj6tpm0h5wOwpZCdV0nJSfFsffUXt0/edit#slide=id.g1f249d19d58_0_488
 https://docs.google.com/presentation/d/1koXEQaA8dbvd4YzNyrvzAvw5dBFm_uG7fAars-gnXWU/edit#slide=id.p 
