@@ -44,6 +44,11 @@ li a:hover {
   position: sticky;
 }
 
+.navbar li a.active {
+  color: #fff700;
+  background-color: #ff00001d;
+}
+
 @media screen and (max-width: 600px) {
     nav {
       height: 130px;
