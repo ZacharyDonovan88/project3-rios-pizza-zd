@@ -38,7 +38,7 @@ function Home() {
           </NavLink>
         </li>
         <li className="logSign">
-          <NavLink exact to="/signup" activeClassName="active">
+          <NavLink exact to="/Sign Up" activeClassName="active">
             Sign Up
           </NavLink>
         </li>
